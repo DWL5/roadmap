@@ -8,6 +8,7 @@
 - [컴퓨터 시스템](https://github.com/DWL5/roadmap-backend/blob/master/os/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
 - [프로세스 관리](https://github.com/DWL5/roadmap-backend/blob/master/os/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EA%B4%80%EB%A6%AC.md)
 - [메모리 관리](https://github.com/DWL5/roadmap-backend/blob/master/os/%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B4%80%EB%A6%AC.md)
+- [스레드와 동시성](https://github.com/DWL5/roadmap-backend/blob/master/os/%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80%EB%8F%99%EC%8B%9C%EC%84%B1.md)
 
 https://github.com/devJang/developer-roadmap
 
