@@ -10,6 +10,9 @@
 - [메모리 관리](https://github.com/DWL5/roadmap-backend/blob/master/os/%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B4%80%EB%A6%AC.md)
 - [스레드와 동시성](https://github.com/DWL5/roadmap-backend/blob/master/os/%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80%EB%8F%99%EC%8B%9C%EC%84%B1.md)
 
+## 언어배우기 (java)
+- [동시성 제어](https://github.com/DWL5/roadmap-backend/blob/master/java/%EC%9E%90%EB%B0%94%EB%8F%99%EC%8B%9C%EC%84%B1%EC%A0%9C%EC%96%B4.md)
+
 https://github.com/devJang/developer-roadmap
 
 ## 백엔드 로드맵
