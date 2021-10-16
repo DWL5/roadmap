@@ -15,7 +15,7 @@
 ## 왜 Redis를 쓸까
 - JAVA의 자료구조도 인메모리 인데, 왜 Redis를 사용할까?
 - 서버가 여러대인 경우 Consistency 문제 발생
- - 서버마다 다른 데이터를 가지고 있게 됨
+  - 서버마다 다른 데이터를 가지고 있게 됨
 - Multi-Threaded 환경에서 Race Condition 문제
 
 ### Race Condition
