@@ -11,18 +11,18 @@
 ### 과정
 
 우선 client는 resource serve에 등록하는 과정을 거친다. 이 과정을 통해 client id와 client secret을 얻을 수 있다.
-
 `Resource Owner`와 `Client`
-`Client`는 `Resource Owner`에게 `Oauth Serivce`의 로그인 화면으로 이동하게 합니다.
-`Resource Owner`는 해당 `Oauth Serivce`의 ID, PW로 로그인 합니다.
-`Resource Owner` 해당 정보를 허용하는 화면을 보여준다.
-`Resource Server`는 `인가 코드`를 등록한 Redirect Url에게 `Client`에게 전달 해 준다.
+
+- `Client`는 `Resource Owner`에게 `Oauth Serivce`의 로그인 화면으로 이동하게 한다.
+- `Resource Owner`는 해당 `Oauth Serivce`의 ID, PW로 로그인 한다.
+- `Resource Owner` 해당 정보를 허용하는 화면을 보여준다.
+- `Resource Server`는 `인가 코드`를 등록한 Redirect Url에게 `Client`에게 전달 해 준다.
 
 
 내가 진행했던 프로젝트에서는 프론트엔드에서 인가코드까지 받은 후 이것을 우리 서버로 전달한다.
 
-우리 서버에서는 해당 `인가코드`를 통해 `access token`을 얻는다. 
-`access token`을 통해 Resource Owner정보(ex. email)에 접근이 가능하다.
+- 우리 서버에서는 해당 `인가코드`를 통해 `access token`을 얻는다. (Resttemplate)
+- `access token`을 통해 Resource Owner정보(ex. email)에 접근이 가능하다.
 
 ---
 
