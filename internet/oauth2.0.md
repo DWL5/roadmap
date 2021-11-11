@@ -10,7 +10,7 @@
 
 ### 과정
 
-우선 client는 resource serve에 등록하는 과정을 거친다. 이 과정을 통해 client id와 client secret을 얻을 수 있다.
+우선 client는 resource server에 등록하는 과정을 거친다. 이 과정을 통해 client id와 client secret을 얻을 수 있다.
 `Resource Owner`와 `Client`
 
 - `Client`는 `Resource Owner`에게 `Oauth Serivce`의 로그인 화면으로 이동하게 한다.
