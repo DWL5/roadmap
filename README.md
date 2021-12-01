@@ -16,7 +16,10 @@
 - [동시성 제어](https://github.com/DWL5/roadmap-backend/blob/master/java/%EC%9E%90%EB%B0%94%EB%8F%99%EC%8B%9C%EC%84%B1%EC%A0%9C%EC%96%B4.md)
 
 ## 데이터베이스
+- [데이터베이스 언어](https://github.com/DWL5/roadmap-backend/blob/master/db/database_language.md)
+- [데이터베이스 KEY](https://github.com/DWL5/roadmap-backend/blob/master/db/key_integrity.md)
 - [index와 작동방식](https://github.com/DWL5/roadmap-backend/blob/master/db/index.md)
+- [transaction, ACID](https://github.com/DWL5/roadmap-backend/blob/master/db/transaction.md)
 
 ## 캐싱
 - [redis](https://github.com/DWL5/roadmap-backend/blob/master/cache/redis.md)
