@@ -20,8 +20,7 @@
 
 ## 언어배우기 (java)
 - [동시성 제어](https://github.com/DWL5/roadmap-backend/blob/master/java/%EC%9E%90%EB%B0%94%EB%8F%99%EC%8B%9C%EC%84%B1%EC%A0%9C%EC%96%B4.md)
-
-### [Effective Java](https://github.com/DWL5/java-effective)
+- [Effective Java](https://github.com/DWL5/java-effective)
 
 ## 데이터베이스
 - [데이터베이스 언어](https://github.com/DWL5/roadmap-backend/blob/master/db/database_language.md)
