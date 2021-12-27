@@ -21,13 +21,7 @@
 ## 언어배우기 (java)
 - [동시성 제어](https://github.com/DWL5/roadmap-backend/blob/master/java/%EC%9E%90%EB%B0%94%EB%8F%99%EC%8B%9C%EC%84%B1%EC%A0%9C%EC%96%B4.md)
 
-### Effective Java
-- [아이템 1.생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/DWL5/roadmap-backend/blob/master/effective_java/item1.md)
-- [아이템 2.생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/DWL5/roadmap-backend/blob/master/effective_java/item2.md)
-- [아이템 3.private 생성자나 열거 타입으로 싱글턴임을 보장하라](https://github.com/DWL5/roadmap-backend/blob/master/effective_java/item3.md)
-- [아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/DWL5/roadmap-backend/blob/master/effective_java/item4.md)
-- [아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/DWL5/roadmap-backend/blob/master/effective_java/item5.md)
-- [아이템 6. 불필요한 객체 생성을 피하라](https://github.com/DWL5/roadmap-backend/blob/master/effective_java/item6.md)
+### [Effective Java](https://github.com/DWL5/java-effective)
 
 ## 데이터베이스
 - [데이터베이스 언어](https://github.com/DWL5/roadmap-backend/blob/master/db/database_language.md)
